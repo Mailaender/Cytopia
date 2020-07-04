@@ -1,0 +1,21 @@
+<map id="UIManager::changeFullScreenMode" name="UIManager::changeFullScreenMode">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="885,75,1092,116"/>
+<area shape="rect" id="node3" href="$classWindowManager.html#a92e1efc564e88b5d92ef674c2577997f" title="sets the game&#39;s window mode Changes the game&#39;s window mode to fullscreen, borderless, or windowed " alt="" coords="301,53,560,79"/>
+<area shape="rect" id="node4" href="$classComboBox.html#afddbdfd25efa15206eb724b641665cfc" title="Get ID of selected element returns the ID of the selected element in the comboBox. " alt="" coords="342,403,519,430"/>
+<area shape="rect" id="node6" href="$classLayout.html#afa734c5af10f59f3dadb066054fe81ab" title="Arrange the layout elements. " alt="" coords="338,137,523,163"/>
+<area shape="rect" id="node15" href="$classMap.html#ab69938ac0e56eb0da1d1701221f3d185" title="Refresh all the map tile textures. " alt="" coords="379,327,482,354"/>
+<area shape="rect" id="node5" href="$classComboBox.html#ad0dba514b01ed2bb3c41c738c80a7d6a" title="Set ID of selected element sets the ID of the selected element in the comboBox. " alt="" coords="629,429,805,455"/>
+<area shape="rect" id="node7" href="$classLayout.html#a79480df6d9dd2d32b23468c05c6ac944" title="Calculates height and width of layout groups. " alt="" coords="609,145,825,187"/>
+<area shape="rect" id="node8" href="$classUIManager.html#a0d32c5b63c4110ff8e43ab06c1c7d761" title="Get the Layoutgroup container Returns the container, that holds LayoutGroups. " alt="" coords="875,150,1103,177"/>
+<area shape="rect" id="node9" href="$classLayout.html#a99004e4afcea6a945e3890b19cce6236" title="Arrange Elements that are aligned to a parent This is a seperate function, so it can recurse if a par..." alt="" coords="608,262,827,289"/>
+<area shape="rect" id="node10" href="$classUIManager.html#aa5b6dbe1a9d5c50b588c55e9c9673f58" title="Get the Ui Element By ID Finds and returns an UiElement by its elementID parameter. " alt="" coords="879,302,1099,329"/>
+<area shape="rect" id="node11" href="$classUIElement.html#a6451228b4c9bc058d69e4d4f2b03c719" title="UIElement::getUiElementData" alt="" coords="879,201,1098,227"/>
+<area shape="rect" id="node12" href="$classUIElement.html#ad1c0d7431b71bdd9a3704a6d5c8a4643" title="Get the position and the size of this ui element Gets the position and the size of this ui element..." alt="" coords="881,251,1096,278"/>
+<area shape="rect" id="node13" href="$classUIElement.html#aa7f624963eaeb31043d74219ee24386c" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="1199,226,1381,253"/>
+<area shape="rect" id="node14" href="$classUIElement.html#a570841bf8b7970ca935b1a00e571036a" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="1151,277,1429,303"/>
+<area shape="rect" id="node16" href="$classMap.html#af654ddecf0d25b836d7c9c27ee5c2150" title="Map::calculateVisibleMap" alt="" coords="624,327,811,354"/>
+<area shape="rect" id="node19" href="$classSprite.html#ababb7913a4d642b0d20a2c48c2a7e77a" title="Sprite::refresh" alt="" coords="660,378,775,405"/>
+<area shape="rect" id="node17" href="$isoMath_8cxx.html#a0a076d973bc64ffa7859b894793c8000" title="Calculates screen space coordinates to isometric space coordinates. A formula is used to calculate th..." alt="" coords="899,403,1078,430"/>
+<area shape="rect" id="node18" href="$classMap.html#a1676db3d125b2c1764adfcb64d6332a2" title="Map::nodeIdx" alt="" coords="934,353,1043,379"/>
+<area shape="rect" id="node20" href="$isoMath_8cxx.html#a229d5dd54cd4e1f43ed5911e4fd266d3" title="converts coordinates from isometric to screen space The given isometric coordinates (which contain he..." alt="" coords="875,454,1102,481"/>
+</map>

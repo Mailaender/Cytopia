@@ -1,0 +1,12 @@
+<map id="MapNode::isLayerOccupied" name="MapNode::isLayerOccupied">
+<area shape="rect" id="node2" href="$classMapNode.html#a26e55c94192a56990f8a59e7af139a73" title="MapNode::setTileID" alt="" coords="289,31,438,57"/>
+<area shape="rect" id="node10" href="$classMapNode.html#a3d88c4eff75c599fb6fd37afd1c882b6" title="MapNode::isPlacementAllowed" alt="" coords="252,81,475,108"/>
+<area shape="rect" id="node11" href="$classMap.html#a178bdc025a3a5c2068d9de5b642c52bd" title="Map::isAllowSetTileId" alt="" coords="283,132,444,159"/>
+<area shape="rect" id="node3" href="$classMapNode.html#ae515fc96b543bf97237bfb1ca53fe571" title="MapNode::MapNode" alt="" coords="529,5,681,32"/>
+<area shape="rect" id="node4" href="$classMap.html#a404c38b33d61f8c63ce2c2efb864d6dd" title="Set the Tile ID Of Node object Also invokes all necessary texture updates (auto&#45;tiling, slopes, ...) " alt="" coords="523,56,687,83"/>
+<area shape="rect" id="node5" href="$classEngine.html#a7a1521fd7fc731f961ebaf3f723127d9" title="Engine::setTileIDOfNode" alt="" coords="735,56,916,83"/>
+<area shape="rect" id="node6" href="$classEventManager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="964,56,1169,83"/>
+<area shape="rect" id="node7" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="begins the game starts running the game " alt="" coords="1217,56,1308,83"/>
+<area shape="rect" id="node8" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1356,56,1480,83"/>
+<area shape="rect" id="node9" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1528,56,1583,83"/>
+</map>

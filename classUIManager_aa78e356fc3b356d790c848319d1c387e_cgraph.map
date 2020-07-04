@@ -1,0 +1,51 @@
+<map id="UIManager::setCallbackFunctions" name="UIManager::setCallbackFunctions">
+<area shape="rect" id="node2" href="$classUIElement.html#a6451228b4c9bc058d69e4d4f2b03c719" title="UIElement::getUiElementData" alt="" coords="1619,5,1838,32"/>
+<area shape="rect" id="node3" href="$classButton.html#a076af7f94be44c9b450911ae4664f23f" title="Button::checkState" alt="" coords="609,323,754,349"/>
+<area shape="rect" id="node4" href="$namespaceSignal.html#a6e0df6c5db8c544e147a57b4d89171ca" title="This function creates a std::function by binding object to the member function pointer method..." alt="" coords="362,851,457,877"/>
+<area shape="rect" id="node5" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="1650,417,1807,458"/>
+<area shape="rect" id="node6" href="$classEngine.html#a0ba57971ffb5173ecc425461f65a4cd8" title="Quits the game Sets m_running to false and quitting the game. " alt="" coords="340,699,479,725"/>
+<area shape="rect" id="node7" href="$classEngine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="611,749,752,776"/>
+<area shape="rect" id="node24" href="$classMapLayers.html#ab663dfc9e4c144f904ad85543b66ac8f" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="301,800,517,827"/>
+<area shape="rect" id="node27" href="$classTileManager.html#a8ee071ff8b24926288437d310f9bc714" title="TileManager::getTileData" alt="" coords="316,901,503,928"/>
+<area shape="rect" id="node28" href="$classUIManager.html#a23bbbe53c18c31ff1c68c105dfa0dbd3" title="Callback function for toggling the visibility of an UiGroup Callback function for Ui Widgets with the..." alt="" coords="291,272,528,299"/>
+<area shape="rect" id="node30" href="$classEngine.html#a260d4834150eae6eec2bde34df6dc827" title="Creates a new game Creates a new game. " alt="" coords="611,424,751,451"/>
+<area shape="rect" id="node31" href="$classEngine.html#ab5a909990be40701ebb4b57c3e716ed4" title="Engine::saveGame" alt="" coords="337,475,481,501"/>
+<area shape="rect" id="node35" href="$classSettings.html#a53285dd5cbd5bfafe155187c74150dde" title="Save settings to file. " alt="" coords="612,525,751,552"/>
+<area shape="rect" id="node36" href="$classUIManager.html#ac927e1cd3dea979202ea9dbf1195b583" title="UIManager::changeResolution" alt="" coords="835,373,1049,400"/>
+<area shape="rect" id="node8" href="$classMap.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="859,825,1025,852"/>
+<area shape="rect" id="node9" href="$compression_8hxx.html#a25f341059256700f2f3ffd62d8113956" title="decompresses given string Decompresses a given string. " alt="" coords="1129,901,1268,928"/>
+<area shape="rect" id="node10" href="$namespacefs.html#a69aff598da647e46953ebeb1e255963b" title="fs::readFileAsString" alt="" coords="1928,767,2075,793"/>
+<area shape="rect" id="node11" href="$classMap.html#a26eceeccd7b6ed693909b1927a25c67a" title="Map::Map" alt="" coords="1157,952,1241,979"/>
+<area shape="rect" id="node15" href="$classMap.html#a481b37ba71ef0e51e836fc42805762dd" title="Update all mapNodes Updates all mapNode and its adjacent tiles regarding height information, draws slopes for adjacent tiles and sets tiling for mapNode sprite if applicable. " alt="" coords="1377,952,1537,979"/>
+<area shape="rect" id="node12" href="$classMapLayers.html#a5db6ba7e194ada6a4d0334d0428ff89b" title="Enable drawing layers. " alt="" coords="1364,1003,1551,1029"/>
+<area shape="rect" id="node13" href="$classTerrainGenerator.html#afd2668a80a6f5043d2b8d6c7a5044ede" title="TerrainGenerator::generate\lTerrain" alt="" coords="1359,851,1556,893"/>
+<area shape="rect" id="node14" href="$classTerrainGenerator.html#ac94cfaeb9dc89453018399361da5174a" title="TerrainGenerator::loadTerrain\lDataFromJSON" alt="" coords="1623,851,1834,893"/>
+<area shape="rect" id="node16" href="$classMap.html#af1e496c421981fe707890b0ba60cc20f" title="Map::updateNodeNeighbors" alt="" coords="1627,968,1830,995"/>
+<area shape="rect" id="node17" href="$classMap.html#ad360682917f0061dbba995d645c56212" title="Map::getNeighborNodes" alt="" coords="1912,935,2091,961"/>
+<area shape="rect" id="node19" href="$classMap.html#a9751d8dc0c6b2b127400b05994118aba" title="Map::updateHeight" alt="" coords="1929,1036,2074,1063"/>
+<area shape="rect" id="node20" href="$classMapNode.html#a67296a58e167356efbabeaac3226b5d3" title="get iso coordinates of this node gets the iso coordinates of this node " alt="" coords="2160,847,2351,873"/>
+<area shape="rect" id="node21" href="$classMap.html#a769a53961d4a0dd34ee080d2da8c171e" title="Map::getElevatedNeighbor\lBitmask" alt="" coords="1904,869,2099,910"/>
+<area shape="rect" id="node22" href="$classMap.html#aa8cc2ed983007621bce12dd9d1b8ec5b" title="Demolish a node This function gathers all tiles that should be demolished and invokes the nodes demol..." alt="" coords="1926,985,2077,1012"/>
+<area shape="rect" id="node23" href="$classMap.html#af192be95053d30ea6c6d9327106bf6d8" title="Get a bitmask that represents same&#45;tile neighbors Checks all neighboring tiles and returns the elevat..." alt="" coords="1891,1087,2112,1113"/>
+<area shape="rect" id="node18" href="$classMap.html#a1676db3d125b2c1764adfcb64d6332a2" title="Map::nodeIdx" alt="" coords="2201,935,2310,961"/>
+<area shape="rect" id="node25" href="$classMapLayers.html#a0a64d01a42e8864b78e1bc54007cb7d9" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="588,834,775,875"/>
+<area shape="rect" id="node26" href="$classMapLayers.html#a3b1b1f10dd431fa83e098a20e4c836b9" title="Disable Drawing Layer Disable Drawing Layer ( Turned off by using bitwise AND with inversed pattern) ..." alt="" coords="851,876,1033,903"/>
+<area shape="rect" id="node29" href="$classUIManager.html#acf39ddcfeee8509c4292b6263cd57ad2" title="Close all open menus but the build menu. " alt="" coords="576,272,787,299"/>
+<area shape="rect" id="node32" href="$classMap.html#ae48ef4fa6a6f73d886211bca59123151" title="Map::saveMapToFile" alt="" coords="606,475,757,501"/>
+<area shape="rect" id="node33" href="$namespacefs.html#a9ce6574c55b8154911dfa170003ef14e" title="fs::writeStringToFile" alt="" coords="867,525,1017,552"/>
+<area shape="rect" id="node34" href="$compression_8hxx.html#a2b136078ca5d23222e9c24092a9918fa" title="Compress a given string with zlib Compress the given string. Returns an empty string if something wen..." alt="" coords="881,475,1003,501"/>
+<area shape="rect" id="node37" href="$classWindowManager.html#a02ff8708c66cbb980399eb967a37a937" title="WindowManager::setScreen\lResolution" alt="" coords="1097,409,1300,450"/>
+<area shape="rect" id="node38" href="$classComboBox.html#afddbdfd25efa15206eb724b641665cfc" title="Get ID of selected element returns the ID of the selected element in the comboBox. " alt="" coords="1110,475,1287,501"/>
+<area shape="rect" id="node40" href="$classLayout.html#afa734c5af10f59f3dadb066054fe81ab" title="Arrange the layout elements. " alt="" coords="1106,249,1291,276"/>
+<area shape="rect" id="node46" href="$classMap.html#ab69938ac0e56eb0da1d1701221f3d185" title="Refresh all the map tile textures. " alt="" coords="1147,699,1250,725"/>
+<area shape="rect" id="node39" href="$classComboBox.html#ad0dba514b01ed2bb3c41c738c80a7d6a" title="Set ID of selected element sets the ID of the selected element in the comboBox. " alt="" coords="1369,475,1545,501"/>
+<area shape="rect" id="node41" href="$classLayout.html#a79480df6d9dd2d32b23468c05c6ac944" title="Calculates height and width of layout groups. " alt="" coords="1349,209,1565,250"/>
+<area shape="rect" id="node42" href="$classUIManager.html#a0d32c5b63c4110ff8e43ab06c1c7d761" title="Get the Layoutgroup container Returns the container, that holds LayoutGroups. " alt="" coords="1615,157,1843,184"/>
+<area shape="rect" id="node43" href="$classLayout.html#a99004e4afcea6a945e3890b19cce6236" title="Arrange Elements that are aligned to a parent This is a seperate function, so it can recurse if a par..." alt="" coords="1348,107,1567,133"/>
+<area shape="rect" id="node44" href="$classUIManager.html#aa5b6dbe1a9d5c50b588c55e9c9673f58" title="Get the Ui Element By ID Finds and returns an UiElement by its elementID parameter. " alt="" coords="1619,56,1839,83"/>
+<area shape="rect" id="node45" href="$classUIElement.html#ad1c0d7431b71bdd9a3704a6d5c8a4643" title="Get the position and the size of this ui element Gets the position and the size of this ui element..." alt="" coords="1621,107,1836,133"/>
+<area shape="rect" id="node47" href="$classMap.html#af654ddecf0d25b836d7c9c27ee5c2150" title="Map::calculateVisibleMap" alt="" coords="1364,699,1551,725"/>
+<area shape="rect" id="node49" href="$classSprite.html#ababb7913a4d642b0d20a2c48c2a7e77a" title="Sprite::refresh" alt="" coords="1400,749,1515,776"/>
+<area shape="rect" id="node48" href="$isoMath_8cxx.html#a0a076d973bc64ffa7859b894793c8000" title="Calculates screen space coordinates to isometric space coordinates. A formula is used to calculate th..." alt="" coords="1639,648,1818,675"/>
+<area shape="rect" id="node50" href="$isoMath_8cxx.html#a229d5dd54cd4e1f43ed5911e4fd266d3" title="converts coordinates from isometric to screen space The given isometric coordinates (which contain he..." alt="" coords="1615,749,1842,776"/>
+</map>

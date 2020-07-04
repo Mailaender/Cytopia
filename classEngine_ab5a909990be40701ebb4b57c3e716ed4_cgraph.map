@@ -1,0 +1,7 @@
+<map id="Engine::saveGame" name="Engine::saveGame">
+<area shape="rect" id="node2" href="$classMap.html#ae48ef4fa6a6f73d886211bca59123151" title="Map::saveMapToFile" alt="" coords="197,56,348,83"/>
+<area shape="rect" id="node5" href="$classEngine.html#a260d4834150eae6eec2bde34df6dc827" title="Creates a new game Creates a new game. " alt="" coords="203,111,343,137"/>
+<area shape="rect" id="node3" href="$namespacefs.html#a9ce6574c55b8154911dfa170003ef14e" title="fs::writeStringToFile" alt="" coords="397,5,546,32"/>
+<area shape="rect" id="node4" href="$compression_8hxx.html#a2b136078ca5d23222e9c24092a9918fa" title="Compress a given string with zlib Compress the given string. Returns an empty string if something wen..." alt="" coords="410,56,533,83"/>
+<area shape="rect" id="node6" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="396,107,547,149"/>
+</map>

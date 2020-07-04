@@ -1,0 +1,26 @@
+<map id="Map::loadMapFromFile" name="Map::loadMapFromFile">
+<area shape="rect" id="node2" href="$compression_8hxx.html#a25f341059256700f2f3ffd62d8113956" title="decompresses given string Decompresses a given string. " alt="" coords="220,5,359,32"/>
+<area shape="rect" id="node3" href="$namespacefs.html#a69aff598da647e46953ebeb1e255963b" title="fs::readFileAsString" alt="" coords="948,85,1095,112"/>
+<area shape="rect" id="node4" href="$classMap.html#a26eceeccd7b6ed693909b1927a25c67a" title="Map::Map" alt="" coords="247,144,331,171"/>
+<area shape="rect" id="node9" href="$classMap.html#a481b37ba71ef0e51e836fc42805762dd" title="Update all mapNodes Updates all mapNode and its adjacent tiles regarding height information, draws slopes for adjacent tiles and sets tiling for mapNode sprite if applicable. " alt="" coords="425,224,585,251"/>
+<area shape="rect" id="node5" href="$classMapLayers.html#a5db6ba7e194ada6a4d0334d0428ff89b" title="Enable drawing layers. " alt="" coords="412,173,599,200"/>
+<area shape="rect" id="node6" href="$classTerrainGenerator.html#afd2668a80a6f5043d2b8d6c7a5044ede" title="TerrainGenerator::generate\lTerrain" alt="" coords="407,107,604,149"/>
+<area shape="rect" id="node7" href="$classTerrainGenerator.html#ac94cfaeb9dc89453018399361da5174a" title="TerrainGenerator::loadTerrain\lDataFromJSON" alt="" coords="652,107,863,149"/>
+<area shape="rect" id="node8" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="1470,267,1621,309"/>
+<area shape="rect" id="node10" href="$classMap.html#af1e496c421981fe707890b0ba60cc20f" title="Map::updateNodeNeighbors" alt="" coords="656,405,859,432"/>
+<area shape="rect" id="node11" href="$classMap.html#ad360682917f0061dbba995d645c56212" title="Map::getNeighborNodes" alt="" coords="932,275,1111,301"/>
+<area shape="rect" id="node14" href="$classMap.html#a9751d8dc0c6b2b127400b05994118aba" title="Map::updateHeight" alt="" coords="949,485,1094,512"/>
+<area shape="rect" id="node16" href="$classMapNode.html#a67296a58e167356efbabeaac3226b5d3" title="get iso coordinates of this node gets the iso coordinates of this node " alt="" coords="1197,595,1387,621"/>
+<area shape="rect" id="node17" href="$classMap.html#a769a53961d4a0dd34ee080d2da8c171e" title="Map::getElevatedNeighbor\lBitmask" alt="" coords="924,587,1119,629"/>
+<area shape="rect" id="node18" href="$classMap.html#aa8cc2ed983007621bce12dd9d1b8ec5b" title="Demolish a node This function gathers all tiles that should be demolished and invokes the nodes demol..." alt="" coords="946,376,1097,403"/>
+<area shape="rect" id="node23" href="$classMap.html#af192be95053d30ea6c6d9327106bf6d8" title="Get a bitmask that represents same&#45;tile neighbors Checks all neighboring tiles and returns the elevat..." alt="" coords="911,435,1132,461"/>
+<area shape="rect" id="node12" href="$isoMath_8cxx.html#a7fa61c3d8ef446fb1c48dc4838023649" title="Check if given coordinates are within map boundaries Checks if coordinates are within map boundaries..." alt="" coords="1188,275,1396,301"/>
+<area shape="rect" id="node13" href="$classMap.html#a1676db3d125b2c1764adfcb64d6332a2" title="Map::nodeIdx" alt="" coords="1237,224,1347,251"/>
+<area shape="rect" id="node15" href="$classMapNode.html#a10dded7848621ba007c3d3fc85392e32" title="Change Height Increases or decrease the height of the node and its sprite This function should not be..." alt="" coords="1201,544,1383,571"/>
+<area shape="rect" id="node19" href="$classMapNode.html#a6b57e4355d0780fb37c34d63bbcdfdf9" title="MapNode::getMapNodeDataFor\lLayer" alt="" coords="1180,427,1404,469"/>
+<area shape="rect" id="node20" href="$classMapNode.html#ad74bb8fd5b519f5e909f0e807960a918" title="MapNode::getOrigCornerPoint" alt="" coords="1185,325,1399,352"/>
+<area shape="rect" id="node21" href="$classMap.html#a3952b445c55efce61c1ccac6f362fe89" title="Return vector of Points of an Object Tiles selection. " alt="" coords="1209,376,1375,403"/>
+<area shape="rect" id="node22" href="$classTileManager.html#a8ee071ff8b24926288437d310f9bc714" title="TileManager::getTileData" alt="" coords="1452,376,1639,403"/>
+<area shape="rect" id="node24" href="$classMapNode.html#afb1cbc0f9e987b7befced46220dd9277" title="check if specific layer can be autotiled. " alt="" coords="1196,493,1388,520"/>
+<area shape="rect" id="node25" href="$classMapNode.html#a64cb9a4523c9e78f256fde42f1dee43d" title="check if specific Tile Data is autotile category. " alt="" coords="1452,493,1639,520"/>
+</map>

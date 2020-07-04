@@ -1,0 +1,5 @@
+<map id="Map::calculateAutotileBitmask" name="Map::calculateAutotileBitmask">
+<area shape="rect" id="node2" href="$classMapNode.html#a6b57e4355d0780fb37c34d63bbcdfdf9" title="MapNode::getMapNodeDataFor\lLayer" alt="" coords="275,5,499,47"/>
+<area shape="rect" id="node3" href="$classMapNode.html#afb1cbc0f9e987b7befced46220dd9277" title="check if specific layer can be autotiled. " alt="" coords="291,71,483,98"/>
+<area shape="rect" id="node4" href="$classMapNode.html#a64cb9a4523c9e78f256fde42f1dee43d" title="check if specific Tile Data is autotile category. " alt="" coords="547,71,733,98"/>
+</map>

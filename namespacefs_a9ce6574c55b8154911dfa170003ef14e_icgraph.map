@@ -1,0 +1,7 @@
+<map id="fs::writeStringToFile" name="fs::writeStringToFile">
+<area shape="rect" id="node2" href="$classSettings.html#a53285dd5cbd5bfafe155187c74150dde" title="Save settings to file. " alt="" coords="404,5,543,32"/>
+<area shape="rect" id="node4" href="$classMap.html#ae48ef4fa6a6f73d886211bca59123151" title="Map::saveMapToFile" alt="" coords="203,56,353,83"/>
+<area shape="rect" id="node6" href="$desktop_2Filesystem_8cxx.html#a4d36fc93e1ad546bbbd83efa8a1ebba2" title="forEachFileType" alt="" coords="217,107,339,133"/>
+<area shape="rect" id="node3" href="$classUIManager.html#aa78e356fc3b356d790c848319d1c387e" title="UIManager::setCallbackFunctions" alt="" coords="593,31,831,57"/>
+<area shape="rect" id="node5" href="$classEngine.html#ab5a909990be40701ebb4b57c3e716ed4" title="Engine::saveGame" alt="" coords="401,56,545,83"/>
+</map>

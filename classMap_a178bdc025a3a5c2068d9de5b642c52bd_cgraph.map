@@ -1,0 +1,5 @@
+<map id="Map::isAllowSetTileId" name="Map::isAllowSetTileId">
+<area shape="rect" id="node2" href="$classMapNode.html#ae38d4ab8e73fc9c44e404f3c9a196953" title="MapNode::isLayerOccupied" alt="" coords="227,5,426,32"/>
+<area shape="rect" id="node3" href="$classMapNode.html#a6b57e4355d0780fb37c34d63bbcdfdf9" title="MapNode::getMapNodeDataFor\lLayer" alt="" coords="215,57,439,98"/>
+<area shape="rect" id="node4" href="$classMapNode.html#a58a7785b716413df71aeee7a939a416b" title="check if current Node Terrain is Slope Terrain. " alt="" coords="241,123,413,149"/>
+</map>
